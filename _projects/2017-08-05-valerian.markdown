@@ -1,17 +1,15 @@
 ---
 layout: project
-title:  "Valerian"
+title:  "Silly Ways To Die: Party"
 date:   2017-08-05 16:54:46
-author: Marcel Newman
 categories:
 - project
-img: valerian.png
+img: "http://files.cdn.spilcloud.com/thumbs-2-9/200X120_168229_1484051453.png"
 thumb: valerian.png
 tagged: runner
 src: "http://games.cdn.spilcloud.com/gamesdistribution/bfa34043832142e3a942127ba2537701/index.html"
 width: "600"
 height: "800"
-id-game: "576742227280302373"
 ---
 
 
