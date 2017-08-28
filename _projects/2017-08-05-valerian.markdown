@@ -8,8 +8,8 @@ img: "http://files.cdn.spilcloud.com/thumbs-2-9/200X120_168229_1484051453.png"
 thumb: valerian.png
 tagged: runner
 src: "http://games.cdn.spilcloud.com/gamesdistribution/bfa34043832142e3a942127ba2537701/index.html"
-width: "600"
-height: "800"
+width: "100%"
+height: "100%"
 ---
 
 
